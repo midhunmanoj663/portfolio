@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.all-cnt{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.ab-cnt p{
+    display: flex;
+}
+.ab-tile{
+    border: 1px solid black;
+    width: 600px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
