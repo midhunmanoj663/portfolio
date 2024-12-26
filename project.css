@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.pr-box{
+    display: flex;
+    margin: 50px 0px;
+    padding: 0 50px;
+}
+.pr-tile1{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 0 20px;
+    background-color: beige;
+}
+.pr-tile2{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 0 20px;
+    background-color: beige;
+}
+.pr-tile3{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 0 20px;
+    background-color: beige;
+}
+.pr-box2{
+    display: flex;
+    margin: 50px 0px;
+    padding: 0 50px;
+}
+.pr-tile4{
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 0 20px;
+    background-color: beige;
+}
